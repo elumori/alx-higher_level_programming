@@ -11,4 +11,3 @@ def print_matrix_integer(matrix=[[]]):
             if i != len_matrix:
                 print(" ", end="")
         print("")
-Footer
