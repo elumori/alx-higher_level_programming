@@ -1,3 +1,3 @@
--- Script to create database hbtn_0c_0
--- if db exists script does not fail
-CREATE DATABASE hbtn_0c_0 IF NOT EXISTs hbtn_0c_0
+-- creating a database
+-- not allowed to use show and select should not fail if database exist
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0
